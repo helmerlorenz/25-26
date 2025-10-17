@@ -1,4 +1,10 @@
-[33mcommit 994ef31fcc5da7470f55d75517f85ed0320dbc33[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[33mcommit 226578f87adb86311552c3beb1b1510cf3dcf8d8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: JethroRendon <jethro.rendon@wvsu.edu.ph>
+Date:   Tue Sep 9 22:34:02 2025 +0800
+
+    feat: added RENDON's exercise 2
+
+[33mcommit 994ef31fcc5da7470f55d75517f85ed0320dbc33[m
 Author: JethroRendon <jethro.rendon@wvsu.edu.ph>
 Date:   Thu Aug 21 15:42:28 2025 +0800
 
